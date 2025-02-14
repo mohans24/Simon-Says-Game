@@ -2,7 +2,6 @@
 
 ### Welcome to the Simon Says Game!
 
-You can play the game by clicking on the following live link:  [Play Simon Says](https://adilsiddiqui70786.github.io/SimonSaysGame/)
 
 ## About the Game
 
@@ -23,15 +22,5 @@ Simon Says is a classic memory game where you must follow a sequence of colors a
 4. After Simon finishes, click on the colored buttons in the same order as the sequence.
 5. If you get the sequence correct, you'll move on to the next level with an extended sequence. If you make a mistake, the game ends.
 
-## Development
 
-This game is developed by **Mohan Sai** using HTML, CSS, and JavaScript.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the development of this game, please open an issue or submit a pull request.
-
-## Connect with Me
-
-You can connect with me on LinkedIn for networking and collaboration: [LinkedIn Profile](https://www.linkedin.com/in/adilsiddiqui70786/)
 
