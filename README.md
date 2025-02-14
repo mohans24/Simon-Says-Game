@@ -25,7 +25,7 @@ Simon Says is a classic memory game where you must follow a sequence of colors a
 
 ## Development
 
-This game is developed by **Mohd Adil** using HTML, CSS, and JavaScript.
+This game is developed by **Mohan Sai** using HTML, CSS, and JavaScript.
 
 ## Contributing
 
